@@ -14,3 +14,7 @@
     apt:
      name: git
      state: present
+  - name: install php
+    apt:
+     name: php
+    state: present
