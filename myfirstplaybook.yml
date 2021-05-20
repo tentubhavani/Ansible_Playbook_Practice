@@ -17,4 +17,4 @@
   - name: install php
     apt:
      name: php
-    state: present
+     state: present
